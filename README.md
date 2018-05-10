@@ -17,7 +17,10 @@ Output: JSON object of recognized characters
 
 ## Tools Used
 
-Python, Scikit-learn, Tesseract, Cherrypy
+* Python
+* Scikit-learn
+* Tesseract
+* Cherrypy
 
 
 ## Technical Report
